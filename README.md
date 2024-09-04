@@ -5,7 +5,19 @@ modèle de page docsify pour une publication via page sans actions
 
 ![demo_sun](https://raw.githubusercontent.com/Timingmerkat83/soleil/main/img/01CinziaCampolese_SetRiseSun.webp)
 
-## Créateur/créatrice
-y
+---
 
-## deuxième titre 2
+## Créateur/créatrice
+* Cinzia Campolese
+
+## Quand ?
+* Installé en 2024
+## Où 
+* Adresse: 
+```
+1 Boulevard Maisonneuve Ouest,
+Montréal
+H2X 0E3
+```
+* Lieu d'exposition: Laurent & Clark 
+(intérieur)
