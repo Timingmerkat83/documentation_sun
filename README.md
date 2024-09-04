@@ -1,7 +1,7 @@
 # Sun Rise Set
 modèle de page docsify pour une publication via page sans actions 
 
-[Link]https://village-numerique.mutek.org/fr/installations/set-rise-sun-par-cinzia-campolese
+[Sun Rise Set Démonstration](https://village-numerique.mutek.org/fr/installations/set-rise-sun-par-cinzia-campolese)
 
 
 ## premier titre 2 [Insert awesome text here]
