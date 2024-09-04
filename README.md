@@ -12,7 +12,7 @@ modèle de page docsify pour une publication via page sans actions
 
 ## Quand ?
 * Installé en 2024
-## Où 
+## Où ?
 * Adresse: 
 ```
 1 Boulevard Maisonneuve Ouest,
@@ -21,3 +21,9 @@ H2X 0E3
 ```
 * Lieu d'exposition: Laurent & Clark 
 (intérieur)
+
+## Hein? C'est quoi ça?
+
+## Comment 
+
+## Appréciation et commentaire personnel
