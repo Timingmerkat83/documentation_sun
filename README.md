@@ -27,3 +27,5 @@ H2X 0E3
 ## Comment 
 
 ## Appréciation et commentaire personnel
+
+Personellement j'ai bien apprécié l'oeuvre, j'ai même découvert quelque chose à laquel je ne m'attendais pas grâce à mes lunettes de soleil.
