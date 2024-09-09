@@ -39,6 +39,15 @@ Set-Rise-Sun est une installation multimédia innovante qui interroge notre rela
 
 *Format: Installation audiovisuelle 
 
+### Objectif
+À travers cette juxtaposition de technologie et de phénomènes naturels, l'artiste invite à réfléchir sur plusieurs thèmes : - la perception du temps; 
+- l'interaction homme-nature, 
+- la dépendance technologique
+- la révélation par la nature.
+
+### Public ciblé
+Cette oeuvre offre une expérience contemplative qui encourage le public à reconsidérer son rapport au temps, à la technologie et à l'environnement naturel, tout en mettant en lumière les défis socio-environnementaux de notre époque.
+
 *Capacité: 10 personnes
 
 ## Comment 
