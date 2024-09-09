@@ -66,7 +66,11 @@ Cette oeuvre offre une expérience contemplative qui encourage le public à reco
 *Capacité: <sup>10</sup> personnes
 
 ## Comment 
-Technique : Écran LCD 86” modifié, bassin d'eau personnalisé, terre et plantes (variables), lecteur multimédia,
+Technique : 
+*Écran LCD 86” modifié (avec filtre), 
+*Bassin d'eau personnalisé 
+*Terre et plantes (variables)
+*Lecteur multimédia
 
 ## Appréciation et commentaire personnel
 
