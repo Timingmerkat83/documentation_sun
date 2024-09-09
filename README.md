@@ -1,5 +1,6 @@
 # Sun Rise Set
 modèle de page docsify pour une publication via page sans actions 
+> Travail par : Pierre-Luc Proulx
 
 [Sun Rise Set Démonstration](https://village-numerique.mutek.org/fr/installations/set-rise-sun-par-cinzia-campolese)
 
@@ -43,7 +44,7 @@ H2X 0E3
 
 ## Hein? C'est quoi ça?
 
-Set-Rise-Sun est une installation multimédia innovante qui interroge notre relation avec le temps et l'environnement à l'ère numérique. L'œuvre se compose d'un écran LCD modifié, disposé perpendiculairement à une surface d'eau dans un cadre naturel. De l'oeil nue, l'écran émite seulement une lumière blanche. Le contenu n'est visible qu'à travers la réflexion sur l'eau qui agit comme un filtre polarisant naturel en raison du phénomène d'angle de Brewster.
+**Set-Rise-Sun** est une installation multimédia innovante qui interroge notre relation avec le temps et l'environnement à l'ère numérique. L'œuvre se compose d'un écran *LCD* modifié, disposé perpendiculairement à une surface d'eau dans un cadre naturel. De l'oeil nue, l'écran émite seulement une lumière blanche. Le contenu n'est visible qu'à travers la réflexion sur l'eau qui agit comme un filtre polarisant naturel en raison du phénomène d'angle de Brewster.
 
 ![OeuvreSun](img/02CinziaCampolese_SetRiseSun.webp) 
 
@@ -67,3 +68,5 @@ Présenté en première en 2023 à NEW NOW Festival
 ## Appréciation et commentaire personnel
 
 Personellement j'ai bien apprécié l'oeuvre, je l'ai trouvé agréable. Mon expérience à été enrichie par une découverte innattendue: grâce à mes lunettes de soleil, j'ai pu remarquer un détail qui est facile à manquer, un détail qui échappait à l'oeil nu. Cette découverte m'a permis de percevoir une variation dans ce que l'on voyait à travers le filtre, sans l'aide des lunettes ce détail n'est juste pas visible. C'est une observation a approfondi mon appréciation de l'oeuvre.
+
+
