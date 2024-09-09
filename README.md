@@ -61,6 +61,7 @@ Cette oeuvre offre une expérience contemplative qui encourage le public à reco
 ## Comment 
 Technique : Écran LCD 86” modifié, bassin d'eau personnalisé, terre et plantes (variables), lecteur multimédia, son
 Présenté en première en 2023 à NEW NOW Festival
+
 ## Appréciation et commentaire personnel
 
-Personellement j'ai bien apprécié l'oeuvre, j'ai même découvert quelque chose à laquel je ne m'attendais pas grâce à mes lunettes de soleil.
+Personellement j'ai bien apprécié l'oeuvre, je l'ai trouvé agréable. Mon expérience à été enrichie par une découverte innattendue: grâce à mes lunettes de soleil, j'ai pu remarquer un détail qui est facile à manquer, un détail qui échappait à l'oeil nu. Cette découverte m'a permis de percevoir une variation dans ce que l'on voyait à travers le filtre, sans l'aide des lunettes ce détail n'est juste pas visible. C'est une observation a approfondi mon appréciation de l'oeuvre.
