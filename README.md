@@ -49,6 +49,7 @@ H2X 0E3
 **Set-Rise-Sun** est une installation multimédia innovante qui interroge notre relation avec le temps et l'environnement à l'ère numérique. L'œuvre se compose d'un écran *LCD* modifié, disposé perpendiculairement à une surface d'eau dans un cadre naturel. De l'oeil nue, l'écran émite seulement une lumière blanche. Le contenu n'est visible qu'à travers la réflexion sur l'eau qui agit comme un filtre polarisant naturel en raison du phénomène d'angle de Brewster.
 
 ![OeuvreSun](img/02CinziaCampolese_SetRiseSun.webp) 
+![OeuvreSun2](https://raw.githubusercontent.com/Timingmerkat83/documentation_sun/main/img/03CinziaCampolese.webp)
 
 *Format: Installation audiovisuelle 
 
