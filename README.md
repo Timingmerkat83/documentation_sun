@@ -24,6 +24,8 @@ modèle de page docsify pour une publication via page sans actions
    -  Gouvernement du Québec
    -  La ville de Montréal
 
+![](https://github.com/Timingmerkat83/documentation_sun/blob/f46d9e23d98097a7140dee2e126ba1a7e70443a2/img/cinzia_campolese.jpg)
+
 ## Quand ?
 * Installé en 2024
 ## Où ?
