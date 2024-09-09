@@ -35,7 +35,7 @@ modèle de page docsify pour une publication via page sans actions
 Montréal
 H2X 0E3
 ```
-<img src="https://github.com/Timingmerkat83/documentation_sun/blob/main/img/montr%C3%A9al_02.PNG" width="400px" >
+![](https://github.com/Timingmerkat83/documentation_sun/blob/main/img/montr%C3%A9al_02.PNG)
 * Lieu d'exposition: Laurent & Clark 
 (intérieur)
 * Station Place des Arts
