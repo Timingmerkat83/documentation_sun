@@ -10,7 +10,7 @@ modèle de page docsify pour une publication via page sans actions
 ## Créateur/créatrice
 | Cinzia Campolese | Qui-est-ce? |
 |------------------| ----------- |
-|<img src="https://github.com/Timingmerkat83/documentation_sun/blob/main/img/cinzia_campolese.jpg" width="400"> | Cinzia Campolese est une artiste qui vit et travaille à Montréal (Canada). Ses œuvres ont été exposées dans des institutions culturelles, des galeries et des événements tels que Stereolux, Biennale Chroniques et Biennale Nova XX, Mutek Montréal et Biela Noc.
+| ![artiste](https://github.com/Timingmerkat83/documentation_sun/blob/main/img/cinzia_campolese.jpg) | Cinzia Campolese est une artiste qui vit et travaille à Montréal (Canada). Ses œuvres ont été exposées dans des institutions culturelles, des galeries et des événements tels que Stereolux, Biennale Chroniques et Biennale Nova XX, Mutek Montréal et Biela Noc.
 * Formation: Italie
 * Partenaires:
    -  Conseil des arts du Canada
@@ -43,7 +43,7 @@ H2X 0E3
 
 Set-Rise-Sun est une installation multimédia innovante qui interroge notre relation avec le temps et l'environnement à l'ère numérique. L'œuvre se compose d'un écran LCD modifié, disposé perpendiculairement à une surface d'eau dans un cadre naturel. De l'oeil nue, l'écran émite seulement une lumière blanche. Le contenu n'est visible qu'à travers la réflexion sur l'eau qui agit comme un filtre polarisant naturel en raison du phénomène d'angle de Brewster.
 
-<img src="https://github.com/Timingmerkat83/documentation_sun/blob/main/img/02CinziaCampolese_SetRiseSun.webp" width="500px">
+![img](https://github.com/Timingmerkat83/documentation_sun/blob/main/img/02CinziaCampolese_SetRiseSun.webp) 
 
 *Format: Installation audiovisuelle 
 
