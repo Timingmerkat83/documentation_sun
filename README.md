@@ -10,6 +10,8 @@ modèle de page docsify pour une publication via page sans actions
 ## Créateur/créatrice
 * Cinzia Campolese
 * Formation: Italie
+* Partenaires:
+** 
 
 ## Quand ?
 * Installé en 2024
