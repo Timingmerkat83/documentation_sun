@@ -9,6 +9,7 @@ modèle de page docsify pour une publication via page sans actions
 
 ## Créateur/créatrice
 * Cinzia Campolese
+* Formation: Italie
 
 ## Quand ?
 * Installé en 2024
@@ -23,9 +24,11 @@ H2X 0E3
 (intérieur)
 
 ## Hein? C'est quoi ça?
-Set-Rise-Sun est une installation multimédia innovante qui interroge notre relation avec le temps et l'environnement à l'ère numérique. L'œuvre se compose d'un écran LCD modifié, disposé perpendiculairement à une surface d'eau dans un cadre naturel.
+Set-Rise-Sun est une installation multimédia innovante qui interroge notre relation avec le temps et l'environnement à l'ère numérique. L'œuvre se compose d'un écran LCD modifié, disposé perpendiculairement à une surface d'eau dans un cadre naturel. De l'oeil nue, l'écran émite seulement une lumière blanche.
 
 *Format: Installation audiovisuelle 
+
+*Capacité: 10 personnes
 
 ## Comment 
 Technique : Écran LCD 86” modifié, bassin d'eau personnalisé, terre et plantes (variables), lecteur multimédia, son
