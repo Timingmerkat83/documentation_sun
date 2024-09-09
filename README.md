@@ -26,12 +26,15 @@ modèle de page docsify pour une publication via page sans actions
 ## Quand ?
 * Installé en 2024
 ## Où ?
+<img src="https://github.com/Timingmerkat83/documentation_sun/blob/main/img/Capture.PNG"  width="300px" align="right">
+
 * Adresse: 
 ```
 1 Boulevard Maisonneuve Ouest,
 Montréal
 H2X 0E3
 ```
+<img src="https://github.com/Timingmerkat83/documentation_sun/blob/main/img/montr%C3%A9al_02.PNG" width="400px" >
 * Lieu d'exposition: Laurent & Clark 
 (intérieur)
 * Station Place des Arts
