@@ -11,7 +11,15 @@ modèle de page docsify pour une publication via page sans actions
 * Cinzia Campolese
 * Formation: Italie
 * Partenaires:
-** 
+   -  Conseil des arts du Canada
+   -  MT LAB
+   -  Tourisme Montréal
+   -  Place des Arts
+   -  UQÀM
+   -  Quartier de spectacles Montréal
+   -  La Presse
+   -  Gouvernement du Québec
+   -  La ville de Montréal
 
 ## Quand ?
 * Installé en 2024
@@ -24,6 +32,7 @@ H2X 0E3
 ```
 * Lieu d'exposition: Laurent & Clark 
 (intérieur)
+* Station Place des Arts
 
 ## Hein? C'est quoi ça?
 Set-Rise-Sun est une installation multimédia innovante qui interroge notre relation avec le temps et l'environnement à l'ère numérique. L'œuvre se compose d'un écran LCD modifié, disposé perpendiculairement à une surface d'eau dans un cadre naturel. De l'oeil nue, l'écran émite seulement une lumière blanche. Le contenu n'est visible qu'à travers la réflexion sur l'eau qui agit comme un filtre polarisant naturel en raison du phénomène d'angle de Brewster.
