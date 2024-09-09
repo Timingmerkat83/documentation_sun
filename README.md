@@ -29,7 +29,6 @@ modèle de page docsify pour une publication via page sans actions
 ## Où ?
 <img src="https://github.com/Timingmerkat83/documentation_sun/blob/main/img/Capture.PNG"  width="300px" align="right">
 
- ![cinzia02](https://raw.githubusercontent.com/Timingmerkat83/documentation_sun/main/img/cinzia_campolese.webp)
 
 * Adresse: 
 ```
@@ -37,7 +36,7 @@ modèle de page docsify pour une publication via page sans actions
 Montréal
 H2X 0E3
 ```
-![](https://github.com/Timingmerkat83/documentation_sun/blob/main/img/montr%C3%A9al_02.PNG)
+![lieu](https://github.com/Timingmerkat83/documentation_sun/blob/main/img/montr%C3%A9al_02.PNG)
 * Lieu d'exposition: Laurent & Clark 
 (intérieur)
 * Station Place des Arts
