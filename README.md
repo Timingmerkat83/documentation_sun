@@ -27,6 +27,8 @@ modèle de page docsify pour une publication via page sans actions
 
 ## Quand ?
 * Installé en 2024
+*
+ Matérielles présentées en première en 2023 à NEW NOW Festival[^1].
 ## Où ?
 <img src="https://github.com/Timingmerkat83/documentation_sun/blob/main/img/Capture.PNG"  width="300px" align="right">
 
@@ -59,14 +61,15 @@ H2X 0E3
 ### Public ciblé
 Cette oeuvre offre une expérience contemplative qui encourage le public à reconsidérer son rapport au temps, à la technologie et à l'environnement naturel, tout en mettant en lumière les défis socio-environnementaux de notre époque.
 
-*Capacité: 10 personnes
+*Capacité: <sup>10</sup> personnes
 
 ## Comment 
-Technique : Écran LCD 86” modifié, bassin d'eau personnalisé, terre et plantes (variables), lecteur multimédia, son
-Présenté en première en 2023 à NEW NOW Festival
+Technique : Écran LCD 86” modifié, bassin d'eau personnalisé, terre et plantes (variables), lecteur multimédia,
 
 ## Appréciation et commentaire personnel
 
 Personellement j'ai bien apprécié l'oeuvre, je l'ai trouvé agréable. Mon expérience à été enrichie par une découverte innattendue: grâce à mes lunettes de soleil, j'ai pu remarquer un détail qui est facile à manquer, un détail qui échappait à l'oeil nu. Cette découverte m'a permis de percevoir une variation dans ce que l'on voyait à travers le filtre, sans l'aide des lunettes ce détail n'est juste pas visible. C'est une observation a approfondi mon appréciation de l'oeuvre.
+
+[^1]: Festival d'art digital qui a lieu en Europe
 
 
