@@ -10,7 +10,7 @@ modèle de page docsify pour une publication via page sans actions
 ## Créateur/créatrice
 | Cinzia Campolese | Qui-est-ce? |
 |------------------| ----------- |
-| ![artiste](img/cinzia_campolese.jpg) | Cinzia Campolese est une artiste qui vit et travaille à Montréal (Canada). Ses œuvres ont été exposées dans des institutions culturelles, des galeries et des événements tels que Stereolux, Biennale Chroniques et Biennale Nova XX, Mutek Montréal et Biela Noc. |
+| ![artiste](https://github.com/Timingmerkat83/documentation_sun/blob/main/img/cinzia_campolese.jpg) | Cinzia Campolese est une artiste qui vit et travaille à Montréal (Canada). Ses œuvres ont été exposées dans des institutions culturelles, des galeries et des événements tels que Stereolux, Biennale Chroniques et Biennale Nova XX, Mutek Montréal et Biela Noc. |
 
 * Formation: Italie
 * Partenaires:
