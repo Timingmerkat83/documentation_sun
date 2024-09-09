@@ -8,7 +8,9 @@ modèle de page docsify pour une publication via page sans actions
 ---
 
 ## Créateur/créatrice
-* Cinzia Campolese
+| Cinzia Campolese |
+|------------------|
+|                  |
 * Formation: Italie
 * Partenaires:
    -  Conseil des arts du Canada
