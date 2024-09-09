@@ -29,6 +29,8 @@ modèle de page docsify pour une publication via page sans actions
 ## Où ?
 <img src="https://github.com/Timingmerkat83/documentation_sun/blob/main/img/Capture.PNG"  width="300px" align="right">
 
+ ![cinzia02](https://raw.githubusercontent.com/Timingmerkat83/documentation_sun/main/img/cinzia_campolese.webp)
+
 * Adresse: 
 ```
 1 Boulevard Maisonneuve Ouest,
